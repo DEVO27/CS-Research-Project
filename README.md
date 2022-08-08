@@ -1,7 +1,7 @@
 # CS-Research-Project
 
 ## Video
-![https://imgur.com/a/AZUzSML](https://www.youtube.com/watch?v=0t2VXSV4WGk)
+https://www.youtube.com/watch?v=0t2VXSV4WGk
 
 
 ## Cited Work
